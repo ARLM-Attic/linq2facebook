@@ -63,7 +63,7 @@ namespace facebook.Linq
 			}
 			if (!typeof(IQueryable<TResult>).IsAssignableFrom(expression.Type))
 			{
-				throw new ArgumentException("expected type: "+typeof(IEnumerable<TResult>).FullName,"expression"); 	//throw Error.ExpectedQueryableArgument("expression", typeof(IEnumerable<TResult>));
+				throw new ArgumentException("expected type: "+typeof(IEnumerable<TResult>).FullName,"expression");
 			}
 			return new FqlDataQuery<TResult>(this.context, expression, typeof(T));
 		}
