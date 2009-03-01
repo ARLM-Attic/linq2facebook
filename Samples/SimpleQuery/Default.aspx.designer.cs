@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace facebook.Linq.Demo {
+namespace SimpleQuery {
     
     
     public partial class _Default {

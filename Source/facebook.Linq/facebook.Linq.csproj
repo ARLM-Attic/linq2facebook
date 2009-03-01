@@ -33,11 +33,11 @@
   <ItemGroup>
     <Reference Include="facebook, Version=2.0.3232.24364, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\References\facebook.dll</HintPath>
+      <HintPath>..\..\bin\facebook.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Xml.Schema.Linq, Version=0.10.1000.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\References\Microsoft.Xml.Schema.Linq.DLL</HintPath>
+      <HintPath>..\..\bin\Microsoft.Xml.Schema.Linq.DLL</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />

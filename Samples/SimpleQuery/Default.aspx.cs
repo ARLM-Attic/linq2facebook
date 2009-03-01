@@ -5,8 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using facebook.Web;
+using facebook;
 
-namespace facebook.Linq.Demo
+namespace SimpleQuery
 {
 	public partial class _Default : System.Web.UI.Page
 	{

@@ -8,8 +8,7 @@ using facebook.Linq;
 
 namespace facebook
 {
-
-
+	
 	/// <summary>
 	/// The Facebook Database. Queries on tables on an instance will be done against the facebook servers.
 	/// </summary>
