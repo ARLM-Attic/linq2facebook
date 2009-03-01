@@ -1,0 +1,5 @@
+D:\Projects\CodeRun\CodeRun\facebook.Linq\bin\Debug\facebook.Linq.dll
+D:\Projects\CodeRun\CodeRun\facebook.Linq\bin\Debug\facebook.Linq.pdb
+D:\Projects\CodeRun\CodeRun\facebook.Linq\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CodeRun\CodeRun\facebook.Linq\obj\Debug\facebook.Linq.dll
+D:\Projects\CodeRun\CodeRun\facebook.Linq\obj\Debug\facebook.Linq.pdb

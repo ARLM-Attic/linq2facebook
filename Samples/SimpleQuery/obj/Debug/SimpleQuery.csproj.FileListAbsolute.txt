@@ -1,0 +1,10 @@
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\bin\SimpleQuery.dll
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\bin\SimpleQuery.pdb
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\bin\facebook.dll
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\bin\facebook.Linq.dll
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\bin\Microsoft.Xml.Schema.Linq.DLL
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\bin\facebook.xml
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\bin\facebook.Linq.pdb
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\obj\Debug\SimpleQuery.dll
+D:\Projects\CodeRun\Projects\FacebookLinq\Samples\SimpleQuery\obj\Debug\SimpleQuery.pdb
